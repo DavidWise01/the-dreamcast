@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The PowerVR2
+node DC · DC · ⟦The PowerVR2:DC:747963⟧
+
+WHO   — The PowerVR2 — deferred, tile-based 3-D · electrical
+WHAT  — deferred, tile-based 3-D · electrical
+WHERE — DC · SEGA DREAMCAST (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A GPU using tile-based deferred rendering — computing only visible pixels per tile to save bandwidth. Sharp, efficient, and unusual for its time.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  deferred, tile-based 3-D · electrical
+
+spoken token : sen-gras-zyn   ·   hex : 747963
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The AICA",
+  "universe": "DC · The AICA (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The AICA:DC:ac358a⟧",
+  "carbon": "the-dc-aica.carbon.tiff (TIFF)",
+  "silicon": "the-dc-aica.silicon.png (PNG)",
+  "seal_sha256": "710e5c2a86b5eaee83fb586dd458f1fab903bc3c10eb7973497cf095c3c134f3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

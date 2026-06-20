@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The GD-ROM
+node DC · DC · ⟦The GD-ROM:DC:2522a9⟧
+
+WHO   — The GD-ROM — Sega's high-density disc · natural
+WHAT  — Sega's high-density disc · natural
+WHERE — DC · SEGA DREAMCAST (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A Sega-specific high-density optical format holding around a gigabyte — bigger than CD, and intended partly to slow piracy.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  Sega's high-density disc · natural
+
+spoken token : mis-kux-kak   ·   hex : 2522a9
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

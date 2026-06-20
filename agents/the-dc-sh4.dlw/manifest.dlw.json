@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The SH-4",
+  "universe": "DC · The SH-4 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The SH-4:DC:7f460b⟧",
+  "carbon": "the-dc-sh4.carbon.tiff (TIFF)",
+  "silicon": "the-dc-sh4.silicon.png (PNG)",
+  "seal_sha256": "77b57c60738d1e7b47f5a2bbde369ec68841aaa518e23a5987cd8017d548e244",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

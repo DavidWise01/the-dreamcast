@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of Main RAM
+node DC · DC · ⟦Main RAM:DC:62785e⟧
+
+WHO   — Main RAM — the working memory · natural
+WHAT  — the working memory · natural
+WHERE — DC · SEGA DREAMCAST (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — 16 MB of main RAM with 8 MB of video RAM and 2 MB for sound — generous for 1998 and well-balanced.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the working memory · natural
+
+spoken token : tham-krae-mand   ·   hex : 62785e
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

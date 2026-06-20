@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The VMU",
+  "universe": "DC · The VMU (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The VMU:DC:9f57d5⟧",
+  "carbon": "the-dc-vmu.carbon.tiff (TIFF)",
+  "silicon": "the-dc-vmu.silicon.png (PNG)",
+  "seal_sha256": "e6d5b8319bb0c43bee063343c51ca374262142347b0bd55546d5987146869210",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

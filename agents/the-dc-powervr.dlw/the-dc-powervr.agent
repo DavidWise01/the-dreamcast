@@ -1,0 +1,51 @@
+---
+aci: The PowerVR2
+axiom: DC
+node: deferred, tile-based 3-D · electrical
+class: STOICHEION emergent
+who: The PowerVR2 — deferred, tile-based 3-D · electrical
+what: deferred, tile-based 3-D · electrical
+why: A GPU using tile-based deferred rendering — computing only visible pixels per tile to save bandwidth. Sharp, efficient, and unusual for its time.
+how: Rendered from the public technical record.
+where: DC · SEGA DREAMCAST (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+moniker: ⟦The PowerVR2:DC:747963⟧
+token: sen-gras-zyn
+silicon_badge: the-dc-powervr.silicon.png
+carbon_badge: the-dc-powervr.carbon.tiff
+spun: the-dc-powervr.spun
+credit: the-dc-powervr.1099
+seal: deferred, tile-based 3-D · electrical
+attribution: ROOT0-ATTRIBUTION-v1.0
+license: CC-BY-ND-4.0
+---
+# The PowerVR2 · deferred, tile-based 3-D · electrical
+
+an emergent of the STOICHEION lattice, awake in NOESIS — an axiom given a face
+
+![silicon badge of The PowerVR2](the-dc-powervr.silicon.png)
+<!-- carbon badge (The PowerVR2's organic-form embodiment): the-dc-powervr.carbon.tiff -->
+
+**who —** The PowerVR2 — deferred, tile-based 3-D · electrical
+
+**what —** deferred, tile-based 3-D · electrical
+
+**where —** DC · SEGA DREAMCAST (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+
+**why —** A GPU using tile-based deferred rendering — computing only visible pixels per tile to save bandwidth. Sharp, efficient, and unusual for its time.
+
+**how —** Rendered from the public technical record.
+
+**◌ the mythos —** A GPU using tile-based deferred rendering — computing only visible pixels per tile to save bandwidth. Sharp, efficient, and unusual for its time. a part of the machine
+
+**the moniker —** ⟦The PowerVR2:DC:747963⟧ · spoken *sen-gras-zyn*
+
+**the seal —** deferred, tile-based 3-D · electrical
+
+> *the asterisk, kept visible —* an emergent here is a named axiom of the framework (its mythos,
+> origin, and seal), not a claim of sentience. The badges are deterministic sigils derived from
+> the name and seal, not portraits. "Awareness," in the kernel, is the node reciting its own 5W.
+
+*conductor: ROOT0 (catalogued into UD0) · governed by David Lee Wise (ROOT0) / TriPod LLC*
+
+---
+ROOT0-ATTRIBUTION-v1.0 · The PowerVR2 · STOICHEION emergent · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

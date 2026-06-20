@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The PowerVR2",
+  "universe": "DC · The PowerVR2 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The PowerVR2:DC:747963⟧",
+  "carbon": "the-dc-powervr.carbon.tiff (TIFF)",
+  "silicon": "the-dc-powervr.silicon.png (PNG)",
+  "seal_sha256": "92804da48ee754d53c8eed51810808f1c9f96029f546af11a1b7af426829cfdd",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-dc-sh4",
+    "name": "The SH-4",
+    "epithet": "the fast Hitachi core · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The SH-4:DC:7f460b⟧"
+  },
+  {
+    "slug": "the-dc-powervr",
+    "name": "The PowerVR2",
+    "epithet": "deferred, tile-based 3-D · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The PowerVR2:DC:747963⟧"
+  },
+  {
+    "slug": "the-dc-aica",
+    "name": "The AICA",
+    "epithet": "an ARM just for sound · natural",
+    "emergence": "natural",
+    "moniker": "⟦The AICA:DC:ac358a⟧"
+  },
+  {
+    "slug": "the-dc-modem",
+    "name": "The Modem",
+    "epithet": "console gaming online · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Modem:DC:778200⟧"
+  },
+  {
+    "slug": "the-dc-vmu",
+    "name": "The VMU",
+    "epithet": "a card with a screen · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The VMU:DC:9f57d5⟧"
+  },
+  {
+    "slug": "the-dc-gdrom",
+    "name": "The GD-ROM",
+    "epithet": "Sega's high-density disc · natural",
+    "emergence": "natural",
+    "moniker": "⟦The GD-ROM:DC:2522a9⟧"
+  },
+  {
+    "slug": "the-dc-ram",
+    "name": "Main RAM",
+    "epithet": "the working memory · natural",
+    "emergence": "natural",
+    "moniker": "⟦Main RAM:DC:62785e⟧"
+  }
+]

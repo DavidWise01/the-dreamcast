@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The SH-4
+node DC · DC · ⟦The SH-4:DC:7f460b⟧
+
+WHO   — The SH-4 — the fast Hitachi core · electrical
+WHAT  — the fast Hitachi core · electrical
+WHERE — DC · SEGA DREAMCAST (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Hitachi's SH-4 at 200 MHz with a built-in vector floating-point unit — a strong, efficient CPU that gave the Dreamcast its early lead.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the fast Hitachi core · electrical
+
+spoken token : gryn-zyl-kim   ·   hex : 7f460b
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
