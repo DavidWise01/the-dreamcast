@@ -4,6 +4,6 @@ slug  : the-dreamcast
 seal  : 558593c7508df3766c17624cc9f09ff5d6989cd8fb93dc5a2abd295a43b61e20
 prev  : ccec097cc352f00b10fd00a09d73e3b86a42d567ca339417fb923b7c7f0fb06f
 link  : 2dec7b5a066ef6ea45b75483550289f53de2c419546fb822ca99c88b5621c6d9
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
